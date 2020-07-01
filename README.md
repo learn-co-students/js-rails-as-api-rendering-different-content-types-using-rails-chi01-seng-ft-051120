@@ -83,7 +83,7 @@ this purpose. Follow these steps to see the BirdsController in action:
 3. While viewing `example_frontend.html`, open the browser console and run the following:
 
 ```js
-fetch('http://localhost:3000/birds').then(response => response.text()).then(text => console.log(text))
+  fetch('http://localhost:3000/birds').then(response => response.text()).then(text => console.log(text))
 // > Promise {<pending>}
 Hello Mourning Dove
 ```
