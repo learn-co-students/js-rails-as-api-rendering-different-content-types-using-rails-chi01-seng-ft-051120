@@ -6,7 +6,7 @@
 - Render plain text from a Rails controller
 - Render JSON from a Rails controller
 
-## Introduction
+## Introduction 
 
 In the previous lesson, we revisited the default Rails MVC structure, and at the
 end, an ERB file was rendered. Rails, however, can render multiple types of
